@@ -1,4 +1,4 @@
-# LinePong
+# BoundsBall
 A simple pong game which you can control with just swipes in your android. <br/>
 This game was created just as a small project to understand how to handle evrything except UI in Unity via code. <br/>
 LinePong will be available on Play Store. <br/>
